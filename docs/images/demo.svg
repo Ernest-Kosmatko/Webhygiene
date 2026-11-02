@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 547 287" width="547" height="287" role="img" aria-label="webhygiene">
+<rect width="547" height="287" rx="8" fill="#0d1117"/>
+<rect width="547" height="34" rx="8" fill="#161b22"/><rect y="20" width="547" height="14" fill="#161b22"/>
+<circle cx="20" cy="17" r="5.5" fill="#ff5f56"/><circle cx="40" cy="17" r="5.5" fill="#ffbd2e"/><circle cx="60" cy="17" r="5.5" fill="#27c93f"/>
+<text x="274" y="21" text-anchor="middle" font-family="Consolas,'DejaVu Sans Mono','Liberation Mono','Courier New',monospace" font-size="12" fill="#8b949e">webhygiene</text>
+<g font-family="Consolas,'DejaVu Sans Mono','Liberation Mono','Courier New',monospace" font-size="13" style="white-space:pre">
+<text x="24" y="62" textLength="335.4" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#7ee787">$ </tspan><tspan fill="#e6edf3">webhygiene https://example.com --insecure</tspan></text>
+<text x="24" y="81" textLength="210.6" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#c9d1d9">Target: https://example.com</tspan></text>
+<text x="24" y="119" textLength="405.6" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#ffa657">[MEDIUM] CSP: Content-Security-Policy header missing</tspan></text>
+<text x="24" y="138" textLength="499.2" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#ffa657">[MEDIUM] Clickjacking: no X-Frame-Options or CSP frame-ancestors</tspan></text>
+<text x="24" y="157" textLength="429.0" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#ffa657">[MEDIUM] HSTS: Strict-Transport-Security header missing</tspan></text>
+<text x="24" y="176" textLength="452.4" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#ffa657">[MEDIUM] HTTP redirect: port 80 does not redirect to HTTPS</tspan></text>
+<text x="24" y="195" textLength="312.0" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#e3b341">[LOW   ] Referrer-Policy: header missing</tspan></text>
+<text x="24" y="214" textLength="374.4" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#e3b341">[LOW   ] X-Content-Type-Options: nosniff not set</tspan></text>
+<text x="24" y="233" textLength="335.4" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#c9d1d9">[INFO  ] Permissions-Policy: header missing</tspan></text>
+<text x="24" y="252" textLength="312.0" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#7ee787">[PASS  ] TLS version: negotiated TLSv1.3</tspan></text>
+</g></svg>

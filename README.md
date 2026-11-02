@@ -9,6 +9,8 @@ Checks a web endpoint for common security configuration problems: missing or wea
 
 > Run it only against targets you are authorized to assess.
 
+![Demo](docs/images/demo.svg)
+
 ## Checks
 
 | Area | What is checked |
